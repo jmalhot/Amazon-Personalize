@@ -1,7 +1,8 @@
 # Amazon-Personalize
 Real-time personalization and recommendation service, based on the same Artificial Intelligence technology used at Amazon.com
 
-Amazon Personalize Workflow
+
+
 
 The workflow for training, deploying, and getting recommendations from a campaign is:
 
